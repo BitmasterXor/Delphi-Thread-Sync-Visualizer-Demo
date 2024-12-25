@@ -101,8 +101,10 @@ Progress bars turn red to indicate stopped state
 
 🤝 Contributing
 Contributions are welcome! Feel free to fork, improve, and submit pull requests.
+
 📜 License
 This project is provided "as is" without warranty. Use at your own risk.
+
 📧 Contact
 Discord: BitmasterXor
 <p align="center">Made with ❤️ by BitmasterXor using Delphi RAD Studio</p>
